@@ -1,21 +1,10 @@
-<br/>
-<p align="center">
-  <h3 align="center">Node.js Authentication App</h3>
-
-  <p align="center">
-    Login and Register functionality using Node.js, Express.js and MongoDB
-    <br/>
-    <br/>
-    <a href="https://github.com/Vedant-MAHAjan/Node_Authentication ">View Demo</a>
-    .
-  </p>
-</p>
-
-
+# Node Authentication App
 
 ## About The Project
 
-The app can be used as a boilerplate to introduce login-register functionality on any website. The app uses simple EJS as the front-end and focuses on the back-end.
+The app can be used as a boilerplate to introduce login-register functionality on any website
+
+The app uses simple EJS as the front-end and focuses more on the back-end.
 
 ## Description 
 The app uses...
@@ -49,6 +38,16 @@ git clone https://github.com/Vedant-MAHAjan/Node_Authentication.git
 ```sh
 npm install
 ```
+
+## Preview
+
+### Home Page
+
+### Register Page
+![image](https://user-images.githubusercontent.com/88843623/231822118-d285e2ef-2342-4e02-a551-b9e96c72b809.png)
+
+###
+
 
 ## Acknowledgements
 
